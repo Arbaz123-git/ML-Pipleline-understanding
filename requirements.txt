@@ -4,3 +4,5 @@ scikit-learn
 pyyaml 
 nltk
 dvclive 
+dvc[s3]
+awscli 

@@ -1,0 +1,4 @@
+[core]
+    remote = dvcstore9810
+['remote "dvcstore9810"']
+    url = s3://dvc-s3-proj-12-new
