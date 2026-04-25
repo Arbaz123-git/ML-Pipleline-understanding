@@ -210,5 +210,5 @@ data
 logs 
 reports
 models 
-.dvc 
+!.dvc 
 dvclive 
